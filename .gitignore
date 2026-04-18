@@ -1,0 +1,4 @@
+.env
+attack_logs.csv
+custom_blacklist.txt
+__pycache__/
